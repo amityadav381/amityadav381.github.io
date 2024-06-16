@@ -1,10 +1,13 @@
-## Blog Post Title From First Header
+## I tried making my device #1
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+The project was to make a device with following features:
+1. Audio recording for journaling.
+2. Setting reminders and alarms via speech.
+3. Has a speech recognition model running locally, completely offline. 
+   1. For transcribing stuff.
+   2. Fast retrieval of  a particular journal/reminder/task.
+   3. For privacy  
+4. Small enough to carry in your pocket. like a car key.
 
 ---
 
